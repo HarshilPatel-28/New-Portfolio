@@ -44,12 +44,12 @@
       "url": "https://e-commerce-backend-mocha.vercel.app/",
       "imgSrc": "https://media.istockphoto.com/id/1215812761/photo/internet-shopping-with-laptop.jpg?s=1024x1024&w=is&k=20&c=cO7GUlxT4HR7v-EDjelC92RfNLqbR_7DH9reoGuPE1g="
     },
-    {
-      "date": "02/02/2024",
-      "title": "MERN E-COMMERCE",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://mern-ecommerce-frontend-2024-ashen.vercel.app/",
-      "imgSrc": "https://images.pexels.com/photos/5632379/pexels-photo-5632379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   {
+      "date": "02/05/2024",
+      "title": "MERN CHAT APP",
+      "description": "Developed a real-time chat application using MongoDB, Express.js, React, and Node.js.",
+      "url": "https://chat-app-mern-frontend-three.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2021/03/12/17/26/smartphone-6090121_1280.png"
     }
   ]
 }
